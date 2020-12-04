@@ -1,4 +1,4 @@
-# Basic-Econometrics-Progresa-Program
+# Basic Econometrics with Progresa Program
 
 This project is designed to implement basic econometric techniques using the data from the [Progresa program](https://en.wikipedia.org/wiki/Oportunidades). 
 
